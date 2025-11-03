@@ -7,16 +7,16 @@ export function generateServiceMetadata(
   description: string,
   keywords: string[]
 ): Metadata {
-  const title = `${serviceName} ${location} - RAFCOM | Devis Gratuit`;
+  const title = `${serviceName} ${location} - AYA PRO | Devis Gratuit`;
   const metaDescription = `${description} Intervention rapide en ${location}. Devis gratuit et personnalisé.`;
 
   return {
     title,
     description: metaDescription,
     keywords: keywords.join(', '),
-    authors: [{ name: 'RAFCOM' }],
-    creator: 'RAFCOM',
-    publisher: 'RAFCOM',
+    authors: [{ name: 'AYA PRO' }],
+    creator: 'AYA PRO',
+    publisher: 'AYA PRO',
     formatDetection: {
       email: false,
       address: false,
@@ -27,7 +27,7 @@ export function generateServiceMetadata(
       description: metaDescription,
       type: 'website',
       locale: 'fr_FR',
-      siteName: 'RAFCOM - Télécommunications',
+      siteName: 'AYA PRO - Rénovation',
     },
     twitter: {
       card: 'summary_large_image',

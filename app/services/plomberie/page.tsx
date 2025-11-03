@@ -5,17 +5,17 @@ import { Metadata } from 'next';
 // Configuration de la page plomberie
 const plomberieConfig = {
   // SEO et métadonnées
-  title: "Plomberie Île-de-France",
-  description: "Services de plomberie professionnels en Île-de-France. Installation, réparation, dépannage urgent. Devis gratuit et intervention rapide.",
+  title: "Plomberie PACA - Aix-en-Provence",
+  description: "AYA PRO, services de plomberie professionnels en région PACA. Installation, réparation, dépannage urgent. Devis gratuit et intervention rapide.",
   keywords: [
-    "plomberie Île-de-France",
-    "plombier Suresnes",
+    "plomberie PACA",
+    "plombier Aix-en-Provence",
     "dépannage plomberie",
     "installation sanitaire",
     "réparation fuite",
     "plomberie urgence",
     "devis plomberie gratuit",
-    "artisan plombier",
+    "entrepreneur plombier",
     "travaux plomberie"
   ],
   
@@ -23,14 +23,14 @@ const plomberieConfig = {
   serviceName: "Plomberie",
   heroImage: "/plomberie.png",
   heroTitle: "Services de Plomberie Professionnels",
-  heroSubtitle: "Installation, réparation et dépannage de tous vos équipements de plomberie en Île-de-France. Intervention rapide et devis gratuit.",
+  heroSubtitle: "Installation, réparation et dépannage de tous vos équipements de plomberie en région PACA. Intervention rapide et devis gratuit.",
   
   // Secteur d'activité
   sector: "BTP - Plomberie",
-  location: "Île-de-France",
+  location: "PACA",
   
   // Contenu détaillé
-  mainDescription: "NEAGU LONUT vous propose ses services de plomberie dans toute l'Île-de-France. Fort de plusieurs années d'expérience dans le secteur du BTP, nous intervenons pour tous vos travaux de plomberie, de l'installation neuve au dépannage d'urgence. Notre expertise couvre l'ensemble des équipements sanitaires et de chauffage pour particuliers et professionnels.",
+  mainDescription: "AYA PRO vous propose ses services de plomberie dans toute la région PACA. Fort de plusieurs années d'expérience dans le secteur du BTP, nous intervenons pour tous vos travaux de plomberie, de l'installation neuve au dépannage d'urgence. Notre expertise couvre l'ensemble des équipements sanitaires et de chauffage pour particuliers et professionnels.",
   
   // Sous-prestations
   subServices: [
@@ -76,21 +76,21 @@ const plomberieConfig = {
   
   // Zone d'intervention
   serviceArea: [
-    "Suresnes (92150)",
-    "Hauts-de-Seine (92)",
-    "Paris et petite couronne",
-    "Île-de-France",
-    "Nanterre",
-    "Puteaux",
-    "Rueil-Malmaison",
-    "Boulogne-Billancourt"
+    "Aix-en-Provence",
+    "Région PACA",
+    "Bouches-du-Rhône",
+    "Marseille",
+    "Salon-de-Provence",
+    "Gardanne",
+    "Vitrolles",
+    "50 km autour d'Aix"
   ],
   
   // Informations de contact
   contactInfo: {
-    phone: "07 83 49 01 36",
-    email: "contact@rafcom.net",
-    address: "Paris (75015), Île-de-France"
+    phone: "06 68 92 45 79",
+    email: "mraihi_7777@yahoo.com",
+    address: "Aix-en-Provence, PACA"
   },
   
 };

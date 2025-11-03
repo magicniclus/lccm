@@ -5,32 +5,32 @@ import { Metadata } from 'next';
 // Configuration de la page carrelage
 const carrelageConfig = {
   // SEO et métadonnées
-  title: "Carrelage Île-de-France",
-  description: "Spécialiste pose de carrelage en Île-de-France. Carrelage sol, faïence murale, mosaïque. Devis gratuit et personnalisé pour tous vos projets.",
+  title: "Carrelage PACA - Aix-en-Provence",
+  description: "AYA PRO, spécialiste pose de carrelage en région PACA. Carrelage sol, faïence murale, mosaïque. Devis gratuit et personnalisé pour tous vos projets.",
   keywords: [
-    "carrelage Île-de-France",
-    "pose carrelage Suresnes",
+    "carrelage PACA",
+    "pose carrelage Aix-en-Provence",
     "faïence salle de bain",
     "devis carrelage gratuit",
-    "carrelage sol Hauts-de-Seine",
-    "mosaïque Paris",
-    "artisan carreleur",
+    "carrelage sol PACA",
+    "mosaïque Aix",
+    "entrepreneur carreleur",
     "pose carrelage professionnel",
     "carrelage pierre naturelle"
   ],
   
   // Contenu principal
   serviceName: "Carrelage",
-  heroImage: "/mur.png",
+  heroImage: "/facade.png",
   heroTitle: "Pose de Carrelage Professionnelle",
-  heroSubtitle: "Expert en pose de carrelage, faïence et mosaïque en Île-de-France. Finitions parfaites avec devis gratuit et personnalisé.",
+  heroSubtitle: "Expert en pose de carrelage, faïence et mosaïque en région PACA. Finitions parfaites avec devis gratuit et personnalisé.",
   
   // Secteur d'activité
   sector: "BTP - Carrelage",
-  location: "Île-de-France",
+  location: "PACA",
   
   // Contenu détaillé
-  mainDescription: "NEAGU LONUT, artisan carreleur expert en Île-de-France, vous propose ses services de pose de carrelage pour tous vos projets. Que ce soit pour votre salle de bain, cuisine, salon ou terrasse, nous maîtrisons tous les types de revêtements céramiques. Notre savoir-faire dans le secteur du BTP nous permet de vous garantir une pose professionnelle avec des finitions impeccables et une étanchéité parfaite.",
+  mainDescription: "AYA PRO, entrepreneur spécialisé en carrelage en région PACA, vous propose ses services de pose de carrelage pour tous vos projets. Que ce soit pour votre salle de bain, cuisine, salon ou terrasse, nous maîttrisons tous les types de revêtements céramiques. Notre savoir-faire dans le secteur du BTP nous permet de vous garantir une pose professionnelle avec des finitions impeccables et une étanchéité parfaite.",
   
   // Sous-prestations
   subServices: [
@@ -84,21 +84,21 @@ const carrelageConfig = {
   
   // Zone d'intervention
   serviceArea: [
-    "Suresnes (92150)",
-    "Hauts-de-Seine (92)",
-    "Paris et petite couronne",
-    "Île-de-France",
-    "Nanterre",
-    "Puteaux",
-    "Rueil-Malmaison",
-    "Boulogne-Billancourt"
+    "Aix-en-Provence",
+    "Région PACA",
+    "Bouches-du-Rhône",
+    "Marseille",
+    "Salon-de-Provence",
+    "Gardanne",
+    "Vitrolles",
+    "50 km autour d'Aix"
   ],
   
   // Informations de contact
   contactInfo: {
-    phone: "07 83 49 01 36",
-    email: "contact@rafcom.net",
-    address: "Paris (75015), Île-de-France"
+    phone: "06 68 92 45 79",
+    email: "mraihi_7777@yahoo.com",
+    address: "Aix-en-Provence, PACA"
   }
   
   // Pas de section pricing selon les instructions

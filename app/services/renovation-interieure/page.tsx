@@ -5,32 +5,32 @@ import { Metadata } from 'next';
 // Configuration de la page rénovation intérieure
 const renovationInterieurConfig = {
   // SEO et métadonnées
-  title: "Rénovation Intérieure Île-de-France",
-  description: "Spécialiste rénovation intérieure en Île-de-France. Travaux d'aménagement, cloisons, sols, peinture. Devis gratuit et personnalisé.",
+  title: "Rénovation Intérieure PACA - Aix-en-Provence",
+  description: "AYA PRO, spécialiste rénovation intérieure en région PACA. Travaux d'aménagement, cloisons, sols, peinture. Devis gratuit et personnalisé.",
   keywords: [
-    "rénovation intérieure Île-de-France",
-    "travaux rénovation Suresnes",
+    "rénovation intérieure PACA",
+    "travaux rénovation Aix-en-Provence",
     "aménagement appartement",
     "devis gratuit rénovation",
-    "rénovation maison Hauts-de-Seine",
-    "travaux intérieur Paris",
-    "artisan rénovation",
+    "rénovation maison PACA",
+    "travaux intérieur Aix",
+    "entrepreneur rénovation",
     "rénovation complète",
     "aménagement sur mesure"
   ],
   
   // Contenu principal
   serviceName: "Rénovation Intérieure",
-  heroImage: "/placo.png",
+  heroImage: "/macon.png",
   heroTitle: "Rénovation Intérieure Complète",
-  heroSubtitle: "Transformation et aménagement de vos espaces intérieurs en Île-de-France. Projet clé en main avec devis gratuit et personnalisé.",
+  heroSubtitle: "Transformation et aménagement de vos espaces intérieurs en région PACA. Projet clé en main avec devis gratuit et personnalisé.",
   
   // Secteur d'activité
   sector: "BTP - Rénovation Intérieure",
-  location: "Île-de-France",
+  location: "PACA",
   
   // Contenu détaillé
-  mainDescription: "NEAGU LONUT, expert en rénovation intérieure en Île-de-France, vous accompagne dans tous vos projets de transformation d'espaces. Que vous souhaitiez rénover entièrement votre appartement, aménager de nouvelles pièces ou moderniser votre intérieur, nous vous proposons une prestation complète et sur mesure. Notre expertise dans le secteur du BTP nous permet de gérer tous les corps de métier pour un résultat harmonieux et de qualité.",
+  mainDescription: "AYA PRO, entrepreneur du bâtiment spécialisé en rénovation intérieure en région PACA, vous accompagne dans tous vos projets de transformation d'espaces. Que vous souhaitiez rénover entièrement votre appartement, aménager de nouvelles pièces ou moderniser votre intérieur, nous vous proposons une prestation complète et sur mesure. Notre expertise dans le secteur du BTP nous permet de gérer tous les corps de métier pour un résultat harmonieux et de qualité.",
   
   // Sous-prestations
   subServices: [
@@ -84,21 +84,21 @@ const renovationInterieurConfig = {
   
   // Zone d'intervention
   serviceArea: [
-    "Suresnes (92150)",
-    "Hauts-de-Seine (92)",
-    "Paris et petite couronne",
-    "Île-de-France",
-    "Nanterre",
-    "Puteaux",
-    "Rueil-Malmaison",
-    "Boulogne-Billancourt"
+    "Aix-en-Provence",
+    "Région PACA",
+    "Bouches-du-Rhône",
+    "Marseille",
+    "Salon-de-Provence",
+    "Gardanne",
+    "Vitrolles",
+    "50 km autour d'Aix"
   ],
   
   // Informations de contact
   contactInfo: {
-    phone: "07 83 49 01 36",
-    email: "contact@rafcom.net",
-    address: "Paris (75015), Île-de-France"
+    phone: "06 68 92 45 79",
+    email: "mraihi_7777@yahoo.com",
+    address: "Aix-en-Provence, PACA"
   }
   
   // Pas de section pricing selon les instructions

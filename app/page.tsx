@@ -24,7 +24,7 @@ export default function Home() {
       title: "Rénovation Intérieure",
       subtitle: "Aménagement et rénovation",
       content: "Rénovation complète de vos espaces intérieurs. Intervention professionnelle pour transformer et moderniser votre habitat selon vos besoins.",
-      image: "/placo.png",
+      image: "/macon.png",
       gradientFrom: "#ff7e5f",
       gradientTo: "#feb47b",
       href: "/services/renovation-interieure"
@@ -42,10 +42,28 @@ export default function Home() {
       title: "Plomberie",
       subtitle: "Installation et réparation",
       content: "Services de plomberie complets : installation, réparation et maintenance. Solutions adaptées pour tous vos besoins en plomberie.",
-      image: "/maison-work.png",
+      image: "/plomberie.png",
       gradientFrom: "#28a745",
       gradientTo: "#20c997",
       href: "/services/plomberie"
+    },
+    {
+      title: "Carrelage",
+      subtitle: "Pose professionnelle",
+      content: "Pose de carrelage sol et mural, faïence, mosaïque. Finitions parfaites avec étanchéité garantie pour tous vos projets.",
+      image: "/facade.png",
+      gradientFrom: "#6f42c1",
+      gradientTo: "#e83e8c",
+      href: "/services/carrelage"
+    },
+    {
+      title: "Salle de Bain",
+      subtitle: "Rénovation complète",
+      content: "Création et rénovation de salles de bain sur mesure. Du design à la réalisation, nous vous accompagnons dans votre projet.",
+      image: "/maison-work.png",
+      gradientFrom: "#17a2b8",
+      gradientTo: "#6610f2",
+      href: "/services/salle-de-bain"
     },
     {
       title: "Toiture & Charpente",

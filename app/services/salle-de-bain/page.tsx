@@ -5,16 +5,16 @@ import { Metadata } from 'next';
 // Configuration de la page salle de bain
 const salleDeBainConfig = {
   // SEO et métadonnées
-  title: "Rénovation Salle de Bain Île-de-France",
-  description: "Spécialiste rénovation salle de bain en Île-de-France. Création, aménagement, carrelage, plomberie. Devis gratuit et réalisation clé en main.",
+  title: "Rénovation Salle de Bain PACA - Aix-en-Provence",
+  description: "AYA PRO, spécialiste rénovation salle de bain en région PACA. Création, aménagement, carrelage, plomberie. Devis gratuit et réalisation clé en main.",
   keywords: [
-    "rénovation salle de bain Île-de-France",
-    "salle de bain Suresnes",
+    "rénovation salle de bain PACA",
+    "salle de bain Aix-en-Provence",
     "carrelage salle de bain",
     "aménagement salle de bain",
     "douche italienne",
     "rénovation sanitaire",
-    "artisan salle de bain",
+    "entrepreneur salle de bain",
     "devis salle de bain gratuit",
     "travaux salle de bain"
   ],
@@ -23,14 +23,14 @@ const salleDeBainConfig = {
   serviceName: "Rénovation Salle de Bain",
   heroImage: "/maison-work.png",
   heroTitle: "Rénovation de Salle de Bain sur Mesure",
-  heroSubtitle: "Création et rénovation complète de salles de bain en Île-de-France. Du design à la réalisation, nous vous accompagnons dans votre projet.",
+  heroSubtitle: "Création et rénovation complète de salles de bain en région PACA. Du design à la réalisation, nous vous accompagnons dans votre projet.",
   
   // Secteur d'activité
   sector: "BTP - Rénovation Sanitaire",
-  location: "Île-de-France",
+  location: "PACA",
   
   // Contenu détaillé
-  mainDescription: "NEAGU LONUT, spécialiste de la rénovation de salle de bain en Île-de-France, vous accompagne dans la transformation de votre espace sanitaire. Que vous souhaitiez moderniser une salle de bain existante ou créer un nouvel espace, nous vous proposons une prestation complète incluant la conception, la plomberie, le carrelage et les finitions. Notre expertise dans le secteur du BTP nous permet de réaliser des projets sur mesure, alliant fonctionnalité et esthétique.",
+  mainDescription: "AYA PRO, spécialiste de la rénovation de salle de bain en région PACA, vous accompagne dans la transformation de votre espace sanitaire. Que vous souhaitiez moderniser une salle de bain existante ou créer un nouvel espace, nous vous proposons une prestation complète incluant la conception, la plomberie, le carrelage et les finitions. Notre expertise dans le secteur du BTP nous permet de réaliser des projets sur mesure, alliant fonctionnalité et esthétique.",
   
   // Sous-prestations
   subServices: [
@@ -76,21 +76,21 @@ const salleDeBainConfig = {
   
   // Zone d'intervention
   serviceArea: [
-    "Suresnes (92150)",
-    "Hauts-de-Seine (92)",
-    "Paris et petite couronne",
-    "Île-de-France",
-    "Nanterre",
-    "Puteaux",
-    "Rueil-Malmaison",
-    "Boulogne-Billancourt"
+    "Aix-en-Provence",
+    "Région PACA",
+    "Bouches-du-Rhône",
+    "Marseille",
+    "Salon-de-Provence",
+    "Gardanne",
+    "Vitrolles",
+    "50 km autour d'Aix"
   ],
   
   // Informations de contact
   contactInfo: {
-    phone: "07 83 49 01 36",
-    email: "contact@rafcom.net",
-    address: "Paris (75015), Île-de-France"
+    phone: "06 68 92 45 79",
+    email: "mraihi_7777@yahoo.com",
+    address: "Aix-en-Provence, PACA"
   },
   
 };
